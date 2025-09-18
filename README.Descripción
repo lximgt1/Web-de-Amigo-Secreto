@@ -1,0 +1,13 @@
+Aplicación web sencilla que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién será el amigo secreto.
+
+Funcionalidades
+
+✍️ Agregar nombres: Los usuarios pueden escribir el nombre de un amigo y añadirlo a una lista.
+
+⚠️ Validación de entrada: Si el campo de texto está vacío, muestra un mensaje de alerta solicitando un nombre válido.
+
+📃 Visualizar la lista: Los nombres ingresados aparecen en una lista visible en la página.
+
+🎲 Sorteo aleatorio: Selecciona un nombre de la lista de forma aleatoria y muestra el resultado en pantalla.
+
+⌨️ Atajo con Enter: También puedes presionar la tecla Enter para añadir un nombre rápidamente.
