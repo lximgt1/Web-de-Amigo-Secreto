@@ -45,8 +45,9 @@ Los usuarios pueden ingresar nombres, verlos en pantalla y seleccionar un ganado
 
 ### Demo animada
 
-
 ![Demo en funcionamiento](assets/demo.gif)
+
+
 
 ---
 
