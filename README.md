@@ -1,13 +1,23 @@
+
 # 🎁 Web de Amigo Secreto
 
-Una aplicación web simple para organizar un sorteo de amigo secreto.  
-Los usuarios pueden añadir nombres a una lista y luego sortear aleatoriamente a uno de los participantes.
+Una aplicación web interactiva para organizar un sorteo de amigo secreto.  
+Los usuarios pueden ingresar nombres, verlos en pantalla y seleccionar un ganador aleatoriamente.
 
 ---
 
 ## 🚀 Demo en línea
 
 [![Ver Página](https://img.shields.io/badge/🌐%20Ver%20Página%20en%20GitHub%20Pages-blue?style=for-the-badge)](https://lximgt1.github.io/Web-de-Amigo-Secreto/)
+
+---
+
+## ✨ Funcionalidades
+
+- 📝 **Agregar nombres:** permite escribir nombres en un campo de texto y añadirlos a la lista.
+- ⚠️ **Validación de entrada:** muestra una alerta si el usuario intenta añadir un campo vacío.
+- 📋 **Visualizar lista:** los nombres añadidos aparecen en una lista visible en pantalla.
+- 🎲 **Sortear amigo:** selecciona aleatoriamente un nombre de la lista y lo muestra como el ganador.
 
 ---
 
@@ -30,10 +40,16 @@ Los usuarios pueden añadir nombres a una lista y luego sortear aleatoriamente a
 
 ## 📷 Vista previa
 
+### Imagen estática
 ![Vista previa del proyecto](assets/amigo-secreto.png)
+
+### Demo animada
+
+
+![Demo en funcionamiento](assets/demo.gif)
 
 ---
 
 ## 📄 Autor
 
-Creado por [@lximgt1](https://github.com/lximgt1)
+Creado con ❤️ por [@lximgt1](https://github.com/lximgt1)
